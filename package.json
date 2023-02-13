@@ -1,0 +1,27 @@
+{
+  "name": "danny-devite",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nemanjaglumac/danny-devite.git"
+  },
+  "keywords": [
+    "template",
+    "starter-pack",
+    "beginner-friendly"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nemanjaglumac/danny-devite/issues"
+  },
+  "homepage": "https://github.com/nemanjaglumac/danny-devite#readme",
+  "devDependencies": {
+    "vite": "^4.1.1"
+  }
+}
